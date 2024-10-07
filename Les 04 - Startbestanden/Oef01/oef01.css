@@ -1,0 +1,28 @@
+caption{
+    caption-side: bottom;
+}
+
+hr{
+    background-color:  #03283b;
+    height: 1px; 
+}
+table{
+    margin: 20px 0;
+}
+
+table.border{
+    margin: 1em;
+    border: solid 2px lightgray;
+    border-collapse: collapse;
+}
+table.border th{
+    background-color: #03283b;
+    border: solid 2px lightgray;
+    padding: 5px;
+    color:white;
+}
+
+table.border td{
+    border: solid 2px lightgray;
+    padding: 25px;
+}
